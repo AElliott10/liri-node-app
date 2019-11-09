@@ -11,7 +11,7 @@ What is Liri
 Command line interface where the user can view information on movies, concerts and music.
 
 Giphy Placeholder
-C:\Users\Angeli\OneDrive\Documents\GitHub\liri-node-app\ThisCommand.png
+![alt text] (https://github.com/AElliott10/liri-node-app/blob/master/ThisCommand.png)
 
 Technologies
 Axios: npm i axios
