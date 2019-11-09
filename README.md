@@ -11,7 +11,7 @@ What is Liri
 Command line interface where the user can view information on movies, concerts and music.
 
 Giphy Placeholder
-Manoli Koutouzos 6:08 PM
+
 ![Image] (https://github.com/AElliott10/liri-node-app/blob/master/ThisCommand.png)
 
 Technologies
